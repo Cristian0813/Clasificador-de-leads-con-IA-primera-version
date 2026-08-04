@@ -56,3 +56,9 @@ En Linux/servidor: un cron job `0 * * * * python main.py`.
   (reutilizas tu experiencia con bots de WhatsApp).
 - Guardar el histórico en una base de datos en vez de sobrescribir el Excel.
 - Panel web simple (Streamlit) en vez de abrir el Excel manualmente.
+
+## Licencia
+Todos los derechos reservados. Este proyecto puede verse y estudiarse
+libremente, pero no puede revenderse ni ofrecerse como servicio comercial
+sin autorización del autor. Ver el archivo [LICENSE](LICENSE) para el
+detalle completo.
