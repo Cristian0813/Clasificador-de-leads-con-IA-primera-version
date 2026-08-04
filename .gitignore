@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+clasificador.log
+leads_clasificados.xlsx
